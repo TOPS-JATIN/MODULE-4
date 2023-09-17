@@ -1,0 +1,12 @@
+1. What is OOP?
+=> OOP stands for Object-Oriented Programming. It is a programming paradigm that emphasizes the use of objects and classes to represent real-world entities
+
+2.List OOP concepts 
+=>  Class: A blueprint for creating objects.
+    Object: An instance of a class.
+    Encapsulation: The practice of hiding data and methods within a class.
+    Inheritance: The ability of a class to inherit properties and methods from a parent class.
+    Polymorphism: The ability of an object to take on many forms.
+
+3. What is the difference between OOP and POP?
+=> The main difference between OOP and POP (Procedural Oriented Programming) is that OOP treats data as a critical element in the program development and does not allow it to flow freely around the system. In OOP, the major emphasis is on data rather than procedure (function). It ties data more closely to the function that operates on it, and protects it from accidental modification from outside function. OOP allows decomposition of a problem into a number of entities called objects and then builds data and function around these objects. The data of an object can be accessed only by the function associated with that object. However, function of one object can access the function of other objects. C++, Java, Dot Net, Python etc are examples of Object-oriented programming (OOP) languages. On the other hand, POP is more structure-oriented than object, unlike OOPs. In POP, data flows freely from one function to another.
